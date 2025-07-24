@@ -29,7 +29,7 @@ Example:
 <pre>
 📁 easy/
 │   📁 roman_to_integer/
-│   │   ├── README.md
+│   │   ├── problem.md
 │   │   ├── result.png
 │   │   └── solution.py
 │
@@ -69,4 +69,3 @@ Use them as a reference, not as model answers.
 
 Thanks for visiting! 🌱  
 Happy coding 🚀
-
