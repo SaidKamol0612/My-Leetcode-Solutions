@@ -27,14 +27,14 @@ solution = Solution()
 # Testcase 1
 res = solution.romanToInt("III")
 print(res, end=" ")
-print(res == 3)
+print(res == 3) # Explanation: III = 3.
 
 # Testcase 2
 res = solution.romanToInt("LVIII")
 print(res, end=" ")
-print(res == 58)
+print(res == 58) # Explanation: L = 50, V= 5, III = 3.
 
 # Testcase 3
 res = solution.romanToInt("MCMXCIV")
 print(res, end=" ")
-print(res == 1994)
+print(res == 1994) # Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.

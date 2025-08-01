@@ -21,9 +21,10 @@ solution = Solution()
 # Testcase 1
 res = solution.strStr("sadbutsad", "sad")
 print(res, end=" ")
-print(res == 0)
+print(res == 0) # Explanation: "sad" occurs at index 0 and 6.
+# The first occurrence is at index 0, so we return 0.
 
 # Testcase 2
 res = solution.strStr("leetcode", "leeto")
 print(res, end=" ")
-print(res == -1)
+print(res == -1) # Explanation: "leeto" did not occur in "leetcode", so we return -1.

@@ -18,7 +18,7 @@ solution = Solution()
 # Testcase 1
 res = solution.twoSum([2, 7, 11, 15], 9)
 print(res, end=' ')
-print(res == [0, 1])
+print(res == [0, 1]) # Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
 # Testcase 2
 res = solution.twoSum([3, 2, 4], 6)

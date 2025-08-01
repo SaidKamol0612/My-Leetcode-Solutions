@@ -27,4 +27,4 @@ print(res == "fl")
 # Testcase 2
 res = solution.longestCommonPrefix(["dog", "racecar", "car"])
 print(res, end=" ")
-print(res == "")
+print(res == "") # Explanation: There is no common prefix among the input strings.
