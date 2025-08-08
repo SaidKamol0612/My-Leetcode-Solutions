@@ -1,5 +1,8 @@
 # progress.log
 
+✔️ - Solved
+📝 - Attempted
+
 2025-07-22
 ✔️ Easy: 0013 - Roman to Integer
 
@@ -35,3 +38,8 @@
 
 2025-08-04
 ✔️ Easy: 0069 - Merge Sorted Array
+
+2025-08-04
+📝 Medium: 0003 - Longest Substring Without Repeating Characters
+📝 Medium: 0006 - Zigzag Conversion
+✔️ Medium: 0007 - Reverse Integer
